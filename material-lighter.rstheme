@@ -155,6 +155,7 @@
 }
 
 .ace_identifier.ace_support.ace_function {
+  font-style: bold;
   color: #6182B8;
   background-color: inherit;
 }
@@ -203,7 +204,7 @@
 
 .ace_comment {
   font-style: italic;
-  color: #00C8FF;
+  color: #00AAD9;
   background-color: inherit;
 }
 
