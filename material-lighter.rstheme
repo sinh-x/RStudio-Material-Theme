@@ -114,7 +114,7 @@
 }
 
 .ace_keyword {
-  font-style: bold;
+  font-style: normal;
   color: #7c4dff;
 }
 
@@ -203,7 +203,7 @@
 }
 
 .ace_comment {
-  font-style: italic;
+  font-style: bold, italic;
   color: #00AAD9;
   background-color: inherit;
 }
@@ -228,6 +228,7 @@
 }
 
 .ace_entity.ace_name.ace_function {
+  font-style: bold;
   color: #6182B8;
   background-color: inherit;
 }
