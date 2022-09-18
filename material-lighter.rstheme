@@ -224,7 +224,7 @@
 }
 
 .ace_identifier {
-  color: #000000;
+  color: #3f535c;
   background-color: inherit;
 }
 
