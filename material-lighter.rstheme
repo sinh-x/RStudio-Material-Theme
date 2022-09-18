@@ -203,7 +203,7 @@
 
 .ace_comment {
   font-style: italic;
-  color: #AABFC9;
+  color: #00C8FF;
   background-color: inherit;
 }
 
