@@ -114,7 +114,7 @@
 }
 
 .ace_keyword {
-  font-style: normal;
+  font-style: bold;
   color: #7c4dff;
 }
 
