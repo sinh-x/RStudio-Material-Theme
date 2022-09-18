@@ -115,13 +115,15 @@
 
 .ace_keyword {
   font-style: normal;
+  font-weight: 600;
   color: #7c4dff;
 }
 
 .ace_keyword.ace_operator {
-  font-style: normal;
-  color: #39adb5;
-  background-color: inherit;
+    font-style: normal;
+    font-weight: bolder;
+    color: #2644df;
+    background-color: inherit;
 }
 
 .ace_keyword.ace_other.ace_unit {
@@ -131,17 +133,20 @@
 }
 
 .ace_constant.ace_language {
-  color: #39adb5;
+  color: #F76D47;
+  font-weight: 600;
   background-color: inherit;
 }
 
 .ace_constant.ace_numeric {
   color: #F76D47;
+  font-weight: 600;
   background-color: inherit;
 }
 
 .ace_constant.ace_character {
   color: #39adb5;
+  font-weight: 600;
   background-color: inherit;
 }
 
@@ -155,7 +160,8 @@
 }
 
 .ace_identifier.ace_support.ace_function {
-  font-style: bold;
+  font-style: italic;
+  font-weight: 600;
   color: #6182B8;
   background-color: inherit;
 }
@@ -204,7 +210,7 @@
 
 .ace_comment {
   font-style: italic;
-  color: #00AAD9;
+  color: #1ca5af;
   background-color: inherit;
 }
 
@@ -223,7 +229,7 @@
 }
 
 .ace_identifier {
-  color: #546E7A;
+  color: #9901a1;
   background-color: inherit;
 }
 
