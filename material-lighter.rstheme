@@ -197,7 +197,7 @@
 }
 
 .ace_string {
-  color: #92E519;
+  color: #447500;
   background-color: inherit;
 }
 
