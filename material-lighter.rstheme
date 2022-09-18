@@ -11,7 +11,7 @@
 }
 
 .ace_editor {
-  background-color: #FFFFFF;
+  background-color: #FAFAFA;
   color: #546E7A;
 }
 
@@ -203,7 +203,7 @@
 }
 
 .ace_comment {
-  font-style: italic bold;
+  font-style: italic;
   color: #00AAD9;
   background-color: inherit;
 }
