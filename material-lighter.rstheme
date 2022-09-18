@@ -154,11 +154,6 @@
   color: #546E7A;
 }
 
-.ace_line > .ace_constant.ace_language {
-  color: #39adb5;
-  background-color: inherit;
-}
-
 .ace_identifier.ace_support.ace_function {
   font-style: italic;
   font-weight: 600;
@@ -192,7 +187,7 @@
 }
 
 .ace_storage.ace_type {
-  color: #7c4dff;
+  color: #9901a1;
 }
 
 .ace_invalid {
@@ -229,7 +224,7 @@
 }
 
 .ace_identifier {
-  color: #9901a1;
+  color: #000000;
   background-color: inherit;
 }
 
