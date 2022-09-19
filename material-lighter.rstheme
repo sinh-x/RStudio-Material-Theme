@@ -3112,6 +3112,6 @@ input#rstudio_command_palette_search {
     position: absolute;
     top: 0;
     bottom: 1px;
-    left: 15px; // margine to avoid image of the theme
+    left: 15px!important; // margine to avoid image of the theme
     right: 2px;
 }
