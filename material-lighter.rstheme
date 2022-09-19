@@ -6,6 +6,7 @@
 }
 
 .ace_print-margin {
+
   width: 2px;
   background: #EEEEEE;
 }
@@ -3104,4 +3105,13 @@ input#rstudio_command_palette_search {
     margin-top: 3px;
     margin-right: 5px;
     margin-left: 5px;
+}
+
+/* search/repalce text box */
+.GMPCVXDBPT {
+    position: absolute;
+    top: 0;
+    bottom: 1px;
+    left: 15px; // margine to avoid image of the theme
+    right: 2px;
 }
