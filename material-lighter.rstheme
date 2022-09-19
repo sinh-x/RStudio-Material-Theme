@@ -357,7 +357,7 @@ table.rstheme_tabLayoutCenter .gwt-Label,
 }
 
 .rstudio-themes-flat .rstheme_toolbarWrapper button, .rstudio-themes-flat .rstheme_toolbarWrapper a, .rstudio-themes-flat .rstheme_toolbarWrapper div {
-  color: #94A7B0 !important;
+  color: #6182B8 !important;
 }
 
 .rstudio-themes-flat .rstudio-themes-default .gwt-SplitLayoutPanel-HDragger, .rstudio-themes-flat .rstudio-themes-default .gwt-SplitLayoutPanel-VDragger {
