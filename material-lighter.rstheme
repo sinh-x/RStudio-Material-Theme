@@ -70,7 +70,7 @@
 }
 
 .ace_marker-layer .ace_active-line {
-  background: #F4F4F4;
+  background: #db77db77;
 }
 
 .ace_marker-layer .ace_selected-word {
