@@ -469,7 +469,7 @@ table.rstheme_tabLayoutCenter .gwt-Label,
 .rstudio-themes-flat {
   /* Works on Firefox */
   scrollbar-width: auto;
-  scrollbar-color: #F4F4F4 #FAFAFA;
+  scrollbar-color: #A4A4A4 #FAFAFA;
   /* Works on Chrome, Edge, and Safari */
 }
 
@@ -482,13 +482,13 @@ table.rstheme_tabLayoutCenter .gwt-Label,
 }
 
 .rstudio-themes-flat *::-webkit-scrollbar-thumb {
-  background-color: #F4F4F4;
+  background-color: #A4A4A4;
   border-radius: 0px;
   border: 2px solid #FAFAFA;
 }
 
 .rstudio-themes-flat *::-webkit-scrollbar-thumb:hover {
-  background-color: #e7e7e7;
+  background-color: #888888;
 }
 
 /* fix overly zealous css rules */
