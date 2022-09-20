@@ -3117,7 +3117,7 @@ input#rstudio_command_palette_search {
 }
 
 /* color for selected item openfile box*/
-.GMPCVXDBAJ tr.gwt-MenuItem-selected .GMPCVXDBOI, .GMPCVXDBAJ tr.gwt-MenuItem-selected .GMPCVXDBPI, .GMPCVXDBAJ tr.gwt-MenuItem-selected .GMPCVXDBMI {
+.GMPCVXDBAJ tr.gwt-MenuItem-selected .GMPCVXDBNI, .GMPCVXDBAJ tr.gwt-MenuItem-selected .GMPCVXDBOI, .GMPCVXDBAJ tr.gwt-MenuItem-selected .GMPCVXDBPI, .GMPCVXDBAJ tr.gwt-MenuItem-selected .GMPCVXDBMI {
   color: #9d007b;
   background: #e5d0d0;
 }
