@@ -391,8 +391,8 @@ table.rstheme_tabLayoutCenter .gwt-Label,
 .rstudio-themes-flat .popupMiddleCenter .item.item-selected,
 .rstudio-themes-flat .menuPopupMiddleCenter .item.item-selected,
 .rstudio-themes-flat .suggestPopupMiddleCenter .item.item-selected {
-  color: #3f535c !important;
-  background: #EEEEEE !important;
+  color: #9d007b !important;
+  background: #e5d0d0 !important;
 }
 
 .rstudio-themes-flat .themedPopupPanel {
@@ -3121,3 +3121,5 @@ input#rstudio_command_palette_search {
   color: #9d007b;
   background: #e5d0d0;
 }
+
+
