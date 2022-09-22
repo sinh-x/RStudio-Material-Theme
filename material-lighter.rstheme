@@ -97,7 +97,7 @@
   background-color: #80CBC440;
 }
 
-ace_highlight-marker {
+.ace_highlight-marker {
   background-color: #ff13f850;
   position: absolute;
   z-index: 8;
