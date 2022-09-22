@@ -123,7 +123,7 @@
   color: #7c4dff;
 }
 
-.ace_keyword.ace_operator, .ace_keyword.ace_operator {
+.ace_keyword.ace_operator, .ace_punctuation.ace_operator {
     font-style: normal;
     font-weight: bolder;
     color: #2644df;
