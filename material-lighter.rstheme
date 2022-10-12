@@ -364,7 +364,7 @@ table.rstheme_tabLayoutCenter .gwt-Label,
 }
 
 .rstudio-themes-flat .rstheme_toolbarWrapper button, .rstudio-themes-flat .rstheme_toolbarWrapper a, .rstudio-themes-flat .rstheme_toolbarWrapper div {
-  color: #6182B8 !important;
+  color: #FFF !important;
 }
 
 .rstudio-themes-flat .rstudio-themes-default .gwt-SplitLayoutPanel-HDragger, .rstudio-themes-flat .rstudio-themes-default .gwt-SplitLayoutPanel-VDragger {
@@ -3149,4 +3149,8 @@ button, input[type="reset"], input[type="button"], input[type="submit"] {
 
 .GMPCVXDBFV {
   color: #f8ff2a;
+}
+
+.GMPCVXDBCV, .GMPCVXDBJU {
+  text-shadow: none;
 }
