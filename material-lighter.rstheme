@@ -45,7 +45,7 @@
 }
 
 .rstudio-themes-flat .gwt-Label {
-  color: #546E7A;
+  color: #FFF;
 }
 
 .ace_cursor {
@@ -318,7 +318,8 @@
 }
 
 .rstudio-themes-flat .rstudio-themes-default .rstudio-themes-background {
-  background: #F4F4F4 !important;
+    background: #0077A6 !important;
+    color: #FFF;
 }
 
 .rstudio-themes-flat .rstudio-themes-default [role="banner"] + [role="navigation"] > table > tbody > tr > td,
@@ -3128,4 +3129,9 @@ input#rstudio_command_palette_search {
   background: #e5d0d0;
 }
 
-
+/* RStudio Menu */
+.GMPCVXDBLR {
+  font-size: 12px;
+  font-weight: bold;
+  color: #fff;
+}
