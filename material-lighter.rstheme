@@ -3135,3 +3135,18 @@ input#rstudio_command_palette_search {
   font-weight: bold;
   color: #fff;
 }
+
+.GMPCVXDBLR .gwt-MenuItem {
+  padding: 5px 9px 5px 9px;
+  height: 15px;
+  text-shadow: 0 1px 0 #fff;
+}
+
+button, input[type="reset"], input[type="button"], input[type="submit"] {
+  color: white;
+  font-weight: bold;
+}
+
+.GMPCVXDBFV {
+  color: #f8ff2a;
+}
