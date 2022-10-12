@@ -2777,7 +2777,7 @@ input#rstudio_command_palette_search {
 }
 
 .rstudio-themes-flat > :not(.gwt-DialogBox-ModalDialog) .gwt-TabLayoutPanel .gwt-TabLayoutPanelTabs > div:empty {
-  height: 2px !important;
+  height: 24px !important;
 }
 
 .rstudio-themes-flat .gwt-TabLayoutPanel .gwt-TabLayoutPanelTabs {
@@ -2801,7 +2801,7 @@ input#rstudio_command_palette_search {
 
 .rstudio-themes-flat .windowframe .gwt-TabLayoutPanel > div:last-child,
 .rstudio-themes-flat .gwt-TabLayoutPanel.rstudio_source_panel > div:last-child {
-  top: 38px !important;
+  top: 26px !important;
 }
 
 .windowframe > div:last-child > div > div > div[aria-hidden="true"] + div + div {
