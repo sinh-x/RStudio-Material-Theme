@@ -3175,3 +3175,7 @@ button.GMPCVXDBN1 > table:first-child {
   box-shadow: none;
   overflow: hidden;
 }
+
+.GMPCVXDBN5B {
+  font-family: "Source Code Pro";
+}
