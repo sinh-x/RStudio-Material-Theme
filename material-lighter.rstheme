@@ -2777,7 +2777,7 @@ input#rstudio_command_palette_search {
 }
 
 .rstudio-themes-flat > :not(.gwt-DialogBox-ModalDialog) .gwt-TabLayoutPanel .gwt-TabLayoutPanelTabs > div:empty {
-  height: 24px !important;
+  height: 2px !important;
 }
 
 .rstudio-themes-flat .gwt-TabLayoutPanel .gwt-TabLayoutPanelTabs {
