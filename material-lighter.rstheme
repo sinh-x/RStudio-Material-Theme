@@ -348,7 +348,7 @@ table.rstheme_tabLayoutCenter .gwt-Label,
 /* toolbar and selected tab */
 .rstudio-themes-flat .rstudio-themes-default .rstheme_center,
 .rstudio-themes-flat .rstudio-themes-default .gwt-TabLayoutPanelTabs .gwt-TabLayoutPanelTab-selected table.rstheme_tabLayoutCenter {
-  background: #F4F4F4 !important;
+  background: #0077a6 !important;
 }
 
 .rstudio-themes-flat .rstudio-themes-default .gwt-TabLayoutPanelTab-selected .gwt-Label {
@@ -3153,4 +3153,14 @@ button, input[type="reset"], input[type="button"], input[type="submit"] {
 
 .GMPCVXDBCV, .GMPCVXDBJU {
   text-shadow: none;
+}
+
+.gwt-SplitLayoutPanel > div:nth-child(4) > div:nth-child(1) > div:nth-child(5) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) {
+  height: 0px;
+  width: 0px;
+}
+
+.gwt-SplitLayoutPanel > div:nth-child(6) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(5) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) {
+  height: 0px;
+  width: 0px
 }
