@@ -3139,7 +3139,7 @@ input#rstudio_command_palette_search {
 .GMPCVXDBLR .gwt-MenuItem {
   padding: 5px 9px 5px 9px;
   height: 15px;
-  text-shadow: 0 1px 0 #fff;
+  text-shadow: none;
 }
 
 button, input[type="reset"], input[type="button"], input[type="submit"] {
