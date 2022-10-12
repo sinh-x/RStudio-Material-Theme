@@ -360,7 +360,7 @@ table.rstheme_tabLayoutCenter .gwt-Label,
 }
 
 .rstudio-themes-flat .rstheme_toolbarWrapper {
-  background: #F4F4F4 !important;
+  background: #0077A6 !important;
 }
 
 .rstudio-themes-flat .rstheme_toolbarWrapper button, .rstudio-themes-flat .rstheme_toolbarWrapper a, .rstudio-themes-flat .rstheme_toolbarWrapper div {
@@ -384,7 +384,7 @@ table.rstheme_tabLayoutCenter .gwt-Label,
 
 /* pane toolbars */
 .rstheme_secondaryToolbar, .rstudio-themes-flat .dataGridHeader {
-  background: #F4F4F4 !important;
+  background: #0077A6 !important;
 }
 
 /* menu background */
