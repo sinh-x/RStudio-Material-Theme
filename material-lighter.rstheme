@@ -3167,3 +3167,11 @@ button, input[type="reset"], input[type="button"], input[type="submit"] {
   height: 0px !important;
   width: 0px !important;
 }
+
+button.GMPCVXDBN1 > table:first-child {
+  border: solid 1px #bbb;
+  border-radius: 5px;
+  background: #f6f5f7;
+  box-shadow: none;
+  overflow: hidden;
+}
