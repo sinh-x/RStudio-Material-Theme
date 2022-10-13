@@ -3198,3 +3198,8 @@ div.GMPCVXDBH table tbody tr.GMPCVXDBCDC td.GMPCVXDBDDC {
 .GMPCVXDBIX, .GMPCVXDBLX {
   background: none !important;
 }
+
+div.gwt-MenuBar.gwt-MenuBar-vertical table tbody tr td.gwt-MenuItemSeparator .gwt-Label {
+  color: #566f7b;
+  font-weight: bold;
+}
