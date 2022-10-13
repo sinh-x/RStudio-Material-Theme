@@ -3189,3 +3189,8 @@ div.GMPCVXDBJI.GMPCVXDBJI-filepane div div.breadcrumb table {
 div.GMPCVXDBH table tbody tr.GMPCVXDBCDC td.GMPCVXDBDDC {
   font-weight: 700;
 }
+
+/* Search bar textbox icon */
+.GMPCVXDBOO {
+  top: -2px;
+}
