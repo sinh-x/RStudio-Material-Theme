@@ -3179,3 +3179,7 @@ button.GMPCVXDBN1 > table:first-child {
 .GMPCVXDBN5B {
   font-family: "Source Code Pro";
 }
+
+.GMPCVXDBJI.GMPCVXDBJI-filepane div div.breadcrumb table tbody tr td table.GMPCVXDBJJ tbody tr td {
+  background: #0077a6 !important;
+}
