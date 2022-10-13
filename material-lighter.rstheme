@@ -1,8 +1,8 @@
 /* rs-theme-name: Material Lighter */
 /* rs-theme-is-dark: FALSE */
 .ace_gutter {
-  background: #FAFAFA;
-  color: #cad7dd;
+  background: #D6DADC;
+  color: #510f0f;
 }
 
 .ace_print-margin {
