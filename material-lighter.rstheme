@@ -3196,5 +3196,5 @@ div.GMPCVXDBH table tbody tr.GMPCVXDBCDC td.GMPCVXDBDDC {
 }
 
 .GMPCVXDBIX, .GMPCVXDBLX {
-  background: none;
+  background: none !important;
 }
