@@ -367,7 +367,7 @@ table.rstheme_tabLayoutCenter .gwt-Label,
 }
 
 .rstudio-themes-flat .rstheme_toolbarWrapper button, .rstudio-themes-flat .rstheme_toolbarWrapper a, .rstudio-themes-flat .rstheme_toolbarWrapper div {
-  color: #000 !important;
+  color: #FFF !important;
 }
 
 .rstudio-themes-flat .rstudio-themes-default .gwt-SplitLayoutPanel-HDragger, .rstudio-themes-flat .rstudio-themes-default .gwt-SplitLayoutPanel-VDragger {
@@ -429,7 +429,7 @@ table.rstheme_tabLayoutCenter .gwt-Label,
 }
 
 .rstudio-themes-flat .gwt-PopupPanel .popupContent {
-  background: #FAFAFA;
+  background: #5cbbe0;
   padding: 2px;
 }
 
@@ -3195,3 +3195,6 @@ div.GMPCVXDBH table tbody tr.GMPCVXDBCDC td.GMPCVXDBDDC {
   top: -2px;
 }
 
+.GMPCVXDBKX .GMPCVXDBIX, .GMPCVXDBJX .GMPCVXDBLX {
+  background: none;
+}
