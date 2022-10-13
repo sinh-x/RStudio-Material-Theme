@@ -2801,7 +2801,7 @@ input#rstudio_command_palette_search {
 
 .rstudio-themes-flat .windowframe .gwt-TabLayoutPanel > div:last-child,
 .rstudio-themes-flat .gwt-TabLayoutPanel.rstudio_source_panel > div:last-child {
-  top: 26px !important;
+  top: 24px !important;
 }
 
 .windowframe > div:last-child > div > div > div[aria-hidden="true"] + div + div {
