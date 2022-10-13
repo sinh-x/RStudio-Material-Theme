@@ -3180,6 +3180,12 @@ button.GMPCVXDBN1 > table:first-child {
   font-family: "Source Code Pro";
 }
 
+/* File pane breadcrumb */
 div.GMPCVXDBJI.GMPCVXDBJI-filepane div div.breadcrumb table {
   background: #0077a6 !important;
+}
+
+/* Environment pane header */
+div.GMPCVXDBH table tbody tr.GMPCVXDBCDC td.GMPCVXDBDDC {
+  font-weight: 700;
 }
