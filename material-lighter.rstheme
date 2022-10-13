@@ -367,7 +367,7 @@ table.rstheme_tabLayoutCenter .gwt-Label,
 }
 
 .rstudio-themes-flat .rstheme_toolbarWrapper button, .rstudio-themes-flat .rstheme_toolbarWrapper a, .rstudio-themes-flat .rstheme_toolbarWrapper div {
-  color: #FFF !important;
+  color: #000 !important;
 }
 
 .rstudio-themes-flat .rstudio-themes-default .gwt-SplitLayoutPanel-HDragger, .rstudio-themes-flat .rstudio-themes-default .gwt-SplitLayoutPanel-VDragger {
@@ -3194,3 +3194,4 @@ div.GMPCVXDBH table tbody tr.GMPCVXDBCDC td.GMPCVXDBDDC {
 .GMPCVXDBOO {
   top: -2px;
 }
+
