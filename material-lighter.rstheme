@@ -75,8 +75,8 @@
 }
 
 .ace_marker-layer .ace_selected-word {
-  border: 1px solid #db003c40;
-  background-color: #db003c40
+  border: 1px solid #aaffc340;
+  background-color: #bbff8c40;
 }
 
 .ace_marker-layer .ace_foreign_line {
@@ -98,7 +98,7 @@
 }
 
 .ace_highlight-marker {
-  background-color: #ff13f850;
+  background-color: #37ff0f4f;
   position: absolute;
   z-index: 8;
 }
