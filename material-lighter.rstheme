@@ -3105,3 +3105,8 @@ input#rstudio_command_palette_search {
     margin-right: 5px;
     margin-left: 5px;
 }
+
+/* Editor sidebar text color */
+.gwt-Label .GMPCVXDBGSC .GMPCVXDBFR .GMPCVXDBISC {
+  color: #141414;
+}
