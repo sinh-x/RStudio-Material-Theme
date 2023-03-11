@@ -3203,3 +3203,8 @@ div.gwt-MenuBar.gwt-MenuBar-vertical table tbody tr td.gwt-MenuItemSeparator .gw
   color: #566f7b;
   font-weight: bold;
 }
+
+/* Text editor outlier sidebar color */
+.gwt-Label .GMPCVXDBGSC .GMPCVXDBFR .GMPCVXDBISC {
+  color: #141414;
+}
