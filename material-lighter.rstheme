@@ -3205,6 +3205,6 @@ div.gwt-MenuBar.gwt-MenuBar-vertical table tbody tr td.gwt-MenuItemSeparator .gw
 }
 
 /* Text editor outlier sidebar color */
-.gwt-Label .GMPCVXDBGSC .GMPCVXDBFR .GMPCVXDBISC {
+.GMPCVXDBISC {
   color: #141414;
 }
