@@ -3205,6 +3205,6 @@ div.gwt-MenuBar.gwt-MenuBar-vertical table tbody tr td.gwt-MenuItemSeparator .gw
 }
 
 /* Text editor outlier sidebar color */
-.GMPCVXDBISC {
-  color: #141414;
+.rstudio-themes-flat .gwt-Label .GMPCVXDBISC {
+  color: #141414 !important;
 }
