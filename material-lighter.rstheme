@@ -3208,3 +3208,7 @@ div.gwt-MenuBar.gwt-MenuBar-vertical table tbody tr td.gwt-MenuItemSeparator .gw
 .GMPCVXDBISC, .GMPCVXDBLSC {
   color: #141414 !important;
 }
+
+div.rstudio_doc_outline_container div.gwt-Label {
+  color: #141414 !important;
+}
