@@ -3204,7 +3204,13 @@ div.gwt-MenuBar.gwt-MenuBar-vertical table tbody tr td.gwt-MenuItemSeparator .gw
   font-weight: bold;
 }
 
-/* Text editor outlier sidebar color */
+/* Text editor outlier sidebar color 
 div.rstudio_doc_outline_container div.gwt-Label {
   color: #565656 !important;
+}
+*/
+
+/* Text editor background color */
+div .GMPCVXDBLSC .ace_editor_theme {
+  background-color: #41848f !important;
 }
