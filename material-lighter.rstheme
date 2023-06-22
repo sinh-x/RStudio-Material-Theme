@@ -3214,3 +3214,7 @@ div.rstudio_doc_outline_container div.gwt-Label {
 .GMPCVXDBLSC {
   background-color: #41848f !important;
 }
+
+.GMPCVXDBLSC .rstudio-themes-flat .ace_editor_theme {
+  background-color: #41848f !important;
+}
