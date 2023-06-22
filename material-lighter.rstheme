@@ -27,7 +27,7 @@
 }
 
 .rstudio-themes-flat .ace_editor_theme {
-  background-color: #FAFAFA !important;
+  background-color: #FAFAFA;
   color: #546E7A !important;
 }
 
